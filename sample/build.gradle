@@ -25,6 +25,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'jp.co.cyberagent.android.gpuimage.sample'
 }
 repositories {
 //     maven { url = "https://oss.sonatype.org/content/repositories/snapshots"}
